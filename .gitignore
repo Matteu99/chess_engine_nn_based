@@ -17,7 +17,6 @@ __pycache__/
 *.zip
 *.pkl
 *.h5
-*.txt
 *.pgn
 
 # Inne zbędne
