@@ -1,0 +1,39 @@
+# Wirtualne środowisko
+.venv/
+
+# Pliki IDE
+.idea/
+
+# Pliki notebooków Jupyter
+.ipynb_checkpoints/
+
+# Pliki kompilacji Pythona
+__pycache__/
+*.pyc
+*.pyo
+
+# Dane i duże pliki
+*.csv
+*.zip
+*.pkl
+*.h5
+*.txt
+*.pgn
+
+# Inne zbędne
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+
+# Jupyter
+*.ipynb
